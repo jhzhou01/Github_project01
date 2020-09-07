@@ -23,5 +23,7 @@ public class HelloWorld {
         // 合并master 与 hotfix
         // commit to master 4th !!!
         // commit to hotfix 5th !!!
+        // commit to master 5th !!!
+        // commit to master 6th !!!
     }
 }
