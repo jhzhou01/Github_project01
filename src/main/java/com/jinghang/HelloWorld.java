@@ -16,5 +16,9 @@ public class HelloWorld {
         // commit to master 1th!!!
         // commit to master 2th!!!
         // commit to master 3th !!!
+        // commit to hotfix 1th!!!
+        // commit to hotfix 2th!!!
+        // commit to hotfix 3th !!!
+        // 合并master 与 hotfix
     }
 }
