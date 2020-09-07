@@ -10,7 +10,7 @@ public class HelloWorld {
     public static void main(String[] args) {
 
         System.out.println("hello world!");
-        // 我在hotfix 编写了代码  1th
-        // 我在hotfix上 编写了代码 4rh
+
+        // commit to hotfix 1th!!!
     }
 }
