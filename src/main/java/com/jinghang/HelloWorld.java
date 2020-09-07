@@ -10,8 +10,10 @@ public class HelloWorld {
     public static void main(String[] args) {
 
         System.out.println("hello world!");
+        System.out.println("hello world!");
+        // commit by master 1th
 
         // commit to hotfix 1th!!!
-        // commit to hotfix 2th !!!
+        // commit to master 2th!!!
     }
 }
