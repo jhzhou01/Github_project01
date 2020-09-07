@@ -13,7 +13,8 @@ public class HelloWorld {
         System.out.println("hello world!");
         // commit by master 1th
 
-        // commit to hotfix 1th!!!
+        // commit to master 1th!!!
         // commit to master 2th!!!
+        // commit to master 3th !!!
     }
 }
