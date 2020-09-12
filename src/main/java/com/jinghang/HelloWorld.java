@@ -26,5 +26,6 @@ public class HelloWorld {
         // commit to master 5th !!!
         // commit to master 6th !!!
         System.out.println("push 代码到github！！！");
+        System.out.println("push 代码到github  2th ！！！");
     }
 }
