@@ -25,5 +25,6 @@ public class HelloWorld {
         // commit to hotfix 5th !!!
         // commit to master 5th !!!
         // commit to master 6th !!!
+        System.out.println("push 代码到github！！！");
     }
 }
