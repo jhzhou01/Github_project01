@@ -28,5 +28,6 @@ public class HelloWorld {
         System.out.println("push 代码到github！！！");
         System.out.println("push 代码到github  2th ！！！");
         System.out.println("push 代码到github  3th ！！！");
+        System.out.println("其他人提交给github，修改 4th ！！！");
     }
 }
